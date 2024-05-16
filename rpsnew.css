@@ -1,0 +1,28 @@
+button{
+  height: 50px;
+
+}
+body{
+  color: white;
+  background-color: rgb(25,25,25);
+  font-family: arial;
+}
+.title{
+  font-size: 30px;
+  font-weight: bold;
+}
+.move-icon{
+  height: 50px;
+}
+.move-button{
+  background-color: transparent;
+  height: 120px;
+  width: 120px;
+  border: 3px solid white;
+  border-radius: 60px;
+  margin-right: 10px;
+}
+.results{
+  font-weight: bold;
+  font-size: 25px;
+}

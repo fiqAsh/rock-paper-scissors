@@ -1,0 +1,14 @@
+.number-buttons{
+  
+  justify-content: center;
+  align-items: center;
+  
+}
+.grid{
+  display: flex;
+  
+}
+.operators{
+  display:grid;
+  grid-template-columns: column;
+}
